@@ -1,0 +1,1 @@
+java -cp CorridaMaluca.jar corrida.TelaPrincipal

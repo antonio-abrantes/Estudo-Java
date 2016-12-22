@@ -1,0 +1,1 @@
+java -cp CRBancario.jar sb.principal.Main
